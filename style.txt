@@ -1,0 +1,76 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<style>
+td {
+	font-family: Arial;
+	font-size: 8pt;
+}
+
+table {
+  border-collapse: expression("separate", cellSpacing = "3px");
+  
+}
+table,td,th {
+	border: 1px solid black;
+	align: "center";
+}
+
+p{
+font-size: 90%;
+color: GREEN;
+font-stretch: wider;
+}
+
+p1{
+font-size: 70%;
+color: red;
+font-weight: bold;
+font-stretch: wider;
+}
+h6 {
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: GREEN;
+}
+table{
+		
+		border-collapse:collapse; 
+		
+	}
+	table td{ 
+		padding:7px; border:  #d6eaf8 1px solid;
+	}
+	/* provide some minimal visual accomodation for IE8 and below */
+	tr{
+		background:  #aed6f1;
+	}
+	/*  Define the background color for all the ODD background rows  */
+	tr:nth-child(odd){ 
+		background:  #aed6f1;
+	}
+	/*  Define the background color for all the EVEN background rows  */
+	tr:nth-child(even){
+		background:   #d6eaf8 ;
+	}
+</style>
+
+<title>Results</title>
+</head>
+<body>
+<h6 align="center" >Result of II B.Tech. I Semester (R18) Regular 2019 Exams </h6>
+<div align="center">
+
+
+
+
+
+</div>
+</body>
+</html>
